@@ -40,54 +40,6 @@ Permite a marcação de exames, incluindo informações como tipo de exame, data
 
 # Requisitos e dependências
 
-Requisitos do Código:
-
-- Cadastro de Pacientes:
-
-O código permite o cadastro de pacientes com informações como nome e idade.
-
-- Agendamento de Consultas Presenciais:
-
-Permite o agendamento de consultas presenciais, exigindo informações como nome do paciente, data, hora e especialista desejado.
-
-- Teleconsulta:
-
-Oferece a funcionalidade de agendar teleconsultas, incluindo informações como nome do paciente, especialista desejado, data e hora da teleconsulta.
-
-- Prontuário Eletrônico:
-
-Permite acessar o prontuário eletrônico dos pacientes, exibindo consultas presenciais, teleconsultas e exames agendados.
-
-- Recursos Educacionais:
-
-Fornece informações educacionais sobre o uso do sistema, respondendo a perguntas frequentes e orientando o usuário em diferentes operações.
-
-- Marcação de Exames:
-
-Permite a marcação de exames, solicitando informações como nome do paciente, tipo de exame, data e hora.
-
-- Menu Principal Interativo:
-
-Utiliza um menu principal interativo que permite ao usuário escolher entre diferentes opções (de 0 a 6) para executar operações específicas.
-
-- Validação de Entradas:
-
-Realiza validação de entradas, exibindo mensagens de erro quando campos obrigatórios não são preenchidos durante o agendamento ou cadastro.
-
-- Loop Principal:
-
-Mantém um loop principal que continua executando até que o usuário escolha a opção de sair (opção 0 no menu principal).
-
-- Encerramento do Programa:
-
-Permite ao usuário encerrar o programa escolhendo a opção "0" no menu principal.
-
-Dependências Externas:
-
-- Nenhuma Biblioteca Externa:
-
-O código não parece depender de bibliotecas externas além das bibliotecas padrão do Python.
-
 - Ambiente Python:
 
 Requer um ambiente Python funcional para execução.
